@@ -13,7 +13,7 @@
 
 ## Introduction
 
-Welcome to the 'Praveen's Sketch Book' frontend project, an Excalidraw clone where users can unleash their creativity on a digital canvas with a variety of drawing tools and features.
+Welcome to the 'Vikash's Sketch Book' frontend project, an Excalidraw clone where users can unleash their creativity on a digital canvas with a variety of drawing tools and features.
 
 ## Tech Stack
 
@@ -32,7 +32,7 @@ Welcome to the 'Praveen's Sketch Book' frontend project, an Excalidraw clone whe
 
 ## Installation
 
-To set up the Praveen Sketch Book locally, follow these steps:
+To set up the Vikash Sketch Book locally, follow these steps:
 
 - Clone the repository
 
@@ -42,7 +42,7 @@ To set up the Praveen Sketch Book locally, follow these steps:
 
 - Navigate to the project folder
   ```js
-  cd Praveen-sketch-book
+  cd Vikash-sketch-book
   ```
 - Install dependencies
   ```js
