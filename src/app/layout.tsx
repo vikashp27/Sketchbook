@@ -10,7 +10,7 @@ const poppin = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Praveen Sketch Book",
+  title: "Vikash Sketch Book",
   description: "A simple and easy to use sketch board",
 };
 
